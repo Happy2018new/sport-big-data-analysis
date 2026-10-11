@@ -11,11 +11,10 @@ class Person:
         self.age = age
         return self
 
-if __name__ =="__main__":
+
+if __name__ == "__main__":
     p = Person("John", 30)
     p.set_name("bruce").set_age(29)
     # p.set_name("bruce")
     # p.set_age(29)
     print(p.name, p.age)
-
-
