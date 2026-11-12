@@ -1,0 +1,5 @@
+Uid,Sid,Identifier,Model,Name,Alias,Status,CreateTime,UpdateTime
+3213633363,hlth.gen_170949384078453,2a4cd857c59cc077,mihlth.xiaomi.fitness.phone,3213633363的REDMI K80,24117RK2CC,2,1789913237900285469,1790758286150190490
+3213633363,xiaomiwear_app_manually,xiaomiwear_app_manually,mihlth.xiaomi.fitness.manually,手动添加,,2,1789913237897926079,1790758286147783920
+3213633363,xiaomiwear_app,xiaomiwear_app,mihlth.xiaomi.fitness.app,小米运动健康,,2,1789913237898013676,1790758286147779568
+3213633363,765362791,765362791,miwear.watch.m66,小米手环8   ,,1,1789913548625095257,1789913548625095351
